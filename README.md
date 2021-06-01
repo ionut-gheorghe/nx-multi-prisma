@@ -1,8 +1,9 @@
 
-Simple setup with nx (empty repo) + nestjs and 2 prisma lins.
+Simple setup with nx (empty repo) + nestjs and 2 prisma libs.
 
-running nx build will result with warnings about the 2 libs.
-running nx serve will resulta with errors from prisma.
+Running nx build will result with warnings about the 2 libs.
+
+Running nx serve will result with errors from prisma.
 
 
 # Beeman
